@@ -16,18 +16,8 @@ const nextConfig: NextConfig = {
     
     return config;
   },
-  turbopack: {
-    resolveAlias: {
-      crypto: 'crypto-browserify',
-      stream: 'stream-browserify',
-      buffer: 'buffer/',
-    },
-  },
   typescript: {
     ignoreBuildErrors: true
-  },
-  eslint: {
-    ignoreDuringBuilds: true
   }
 };
 
