@@ -3,28 +3,28 @@ import React from "react";
 
 const technologies = [
   {
-    title: "Zero-Knowledge Proofs",
-    description: "ZK based encryption for trustless privacy",
+    title: "Probabalistic Forecast Model
+    description: "Advanced ridge regression modeling calibrated against live data",
     status: "Production",
     statusColor: "bg-green-600"
   },
   {
-    title: "Anonymous Wallet Funding", 
-    description: "Fund fresh wallets, untraceably",
+    title: "Continuous Model Training", 
+    description: "Live reinforcement model training",
     status: "Production",
     statusColor: "bg-green-600"
   },
   {
-    title: "Open Source Code",
-    description: "Verify what you sign",
+    title: "Transparent Performance Tracking",
+    description: "Verify our model",
     status: "Production",
     statusColor: "bg-green-600"
   },
   {
-    title: "On-Chain Obscurity",
-    description: "Your Lethe activity hides your on-chain footprint",
-    status: "Production", 
-    statusColor: "bg-green-600"
+    title: "Live Bracket Committment to the Blockchain",
+    description: "Submit tournament brackets verifiably on chain",
+    status: "In Process", 
+    statusColor: "bg-orange-600"
   }
 ];
 
