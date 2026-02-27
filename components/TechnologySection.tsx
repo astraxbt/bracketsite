@@ -33,7 +33,7 @@ export function TechnologySection() {
     <div className="px-6 py-16 max-w-4xl mx-auto">
       <div className="text-center mb-12">
         <h2 className="text-3xl font-bold mb-4">Built on Cutting-Edge ZK technology on Solana</h2>
-        <p className="text-muted-foreground">We use Light Protocol, the most advanced ZK layer on Solana</p>
+        <p className="text-muted-foreground">We use cutting-edge ridge regression and continuous training</p>
       </div>
       
       <div className="space-y-4">
