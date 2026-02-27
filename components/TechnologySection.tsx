@@ -3,7 +3,7 @@ import React from "react";
 
 const technologies = [
   {
-    title: "Probabalistic Forecast Model
+    title: "Probabalistic Forecast Model",
     description: "Advanced ridge regression modeling calibrated against live data",
     status: "Production",
     statusColor: "bg-green-600"
