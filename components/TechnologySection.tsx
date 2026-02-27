@@ -32,8 +32,8 @@ export function TechnologySection() {
   return (
     <div className="px-6 py-16 max-w-4xl mx-auto">
       <div className="text-center mb-12">
-        <h2 className="text-3xl font-bold mb-4">Built on Cutting-Edge ZK technology on Solana</h2>
-        <p className="text-muted-foreground">We use cutting-edge ridge regression and continuous training</p>
+        <h2 className="text-3xl font-bold mb-4">Built on Cutting-Edge sports modeling technology </h2>
+        <p className="text-muted-foreground">We use ridge regression and continuous training to create accurate predictions</p>
       </div>
       
       <div className="space-y-4">
