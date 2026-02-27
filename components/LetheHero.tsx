@@ -29,7 +29,7 @@ export function LetheHero() {
             </div>
             
             <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-7xl font-bold tracking-wider">
-              Lethe
+              Coeus
             </h1>
             
             <p className="text-sm sm:text-lg md:text-xl text-muted-foreground max-w-md">
@@ -39,7 +39,7 @@ export function LetheHero() {
 
           <div className="bg-surface-card border border-border rounded-lg p-2 md:p-4 font-mono text-xs md:text-sm">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-primary font-semibold">$LETHE</span>
+              <span className="text-primary font-semibold">$Coeus</span>
             </div>
             <div className="text-muted-foreground text-xs">
               Contract: 
