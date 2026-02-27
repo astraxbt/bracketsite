@@ -85,23 +85,23 @@ export function LiveStatsSection() {
   const liveStats = [
     {
       value: loading ? "Loading..." : formatVolume(getPrivacyVaultVolume()),
-      label: "Privacy Vault Volume",
-      description: "Total shield + unshield volume"
+      label: "Brackets Created",
+      description: "Total Brackets Created"
     },
     {
       value: loading ? "Loading..." : formatVolume(getBridgeVolume()),
-      label: "Bridge Volume", 
-      description: "Cross-chain transfers"
+      label: "Model Accuracy", 
+      description: "Accuracy of Model Picks"
     },
     {
       value: loading ? "Loading..." : getTotalWalletsFunded().toString(),
-      label: "Total Wallets Funded",
-      description: "Anonymous + fast-track funding"
+      label: "Unique Participating Wallets",
+      description: "Toal Unique Wallets"
     },
     {
       value: loading ? "Loading..." : formatVolume(getTotalVolume()),
-      label: "Total Volume",
-      description: "All Lethe operations combined"
+      label: "Hashes Stored On-Chain",
+      description: "Total Hashes Commited On=Chain"
     }
   ];
 
@@ -109,23 +109,23 @@ export function LiveStatsSection() {
     const fallbackStats = [
       {
         value: "Coming Soon",
-        label: "Privacy Vault Volume",
-        description: "Total shield + unshield volume"
+        label: "Brackets Created",
+        description: "Total Brackets Created"
       },
       {
         value: "Coming Soon",
-        label: "Bridge Volume",
-        description: "Cross-chain transfers"
+        label: "Model Accuracy",
+        description: "Accuracy of Model Picks"
       },
       {
         value: "Coming Soon",
-        label: "Total Wallets Funded",
-        description: "Anonymous + fast-track funding"
+        label: "Unique Participating Wallets",
+        description: "Toal Unique Wallets"
       },
       {
         value: "Coming Soon",
-        label: "Total Volume",
-        description: "All Lethe operations combined"
+        label: "Hashes Stored On-Chain",
+        description: "Total Hashes Commited On=Chain"
       }
     ];
 
