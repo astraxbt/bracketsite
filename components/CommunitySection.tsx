@@ -5,11 +5,6 @@ import { MessageCircle, Github, Twitter } from "lucide-react";
 
 const socialIcons = [
   {
-    title: "GitHub",
-    icon: Github,
-    link: "https://github.com/lethe-sol/lethesol"
-  },
-  {
     title: "Twitter",
     icon: Twitter,
     link: "https://x.com/LetheSol"
