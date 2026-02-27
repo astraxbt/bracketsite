@@ -25,7 +25,7 @@ export function LetheHero() {
           <div className="space-y-4">
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-              PRIVACY PROTOCOL ACTIVE
+              Model Active
             </div>
             
             <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-7xl font-bold tracking-wider">
@@ -33,7 +33,7 @@ export function LetheHero() {
             </h1>
             
             <p className="text-sm sm:text-lg md:text-xl text-muted-foreground max-w-md">
-              Privacy protocol enabling private on-chain activity on Solana
+              Cutting edge model predictions blending sports and crypto 
             </p>
           </div>
 
